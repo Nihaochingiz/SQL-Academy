@@ -1,2 +1,1 @@
-Конспект с курса 
-- [SQL Academy](https://sql-academy.org)
+Конспект с курса [SQL Academy](https://sql-academy.org)
